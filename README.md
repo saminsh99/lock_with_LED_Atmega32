@@ -1,3 +1,4 @@
-LED 16*2
-ATmega32
+LED 16*2-
+ATmega32-
 keyboard
+
