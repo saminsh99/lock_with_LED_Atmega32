@@ -1,16 +1,5 @@
 /*******************************************************
-This program was created by the
-CodeWizardAVR V3.12 Advanced
-Automatic Program Generator
-© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
-http://www.hpinfotech.com
 
-Project : 
-Version : 
-Date    : 12/16/2022
-Author  : 
-Company : 
-Comments: 
 
 
 Chip type               : ATmega32A
